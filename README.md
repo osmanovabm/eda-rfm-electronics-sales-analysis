@@ -6,12 +6,13 @@ Conduct a comprehensive analysis of electronics sales data, including the genera
 ---
 
 ## Key Skills and Technologies
-- Python, Pandas, NumPy  
+- Python, Pandas, NumPy
 - Synthetic data generation with Faker  
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
 - RFM analysis and customer segmentation  
-- Data visualization (Matplotlib, Seaborn)  
+- Data visualization (Matplotlib, Seaborn)
+- Jupyter Lab
 
 ---
 
