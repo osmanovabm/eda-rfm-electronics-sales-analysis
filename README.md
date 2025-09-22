@@ -16,7 +16,7 @@ Conduct a comprehensive analysis of electronics sales data, including the genera
 ---
 
 ## Data Description
-The synthetic dataset includes retail and wholesale orders for 2023–2024. After cleaning, the dataset contains the following columns:  
+The synthetic dataset includes retail and wholesale orders for 2023–2024. After cleaning, the dataset contains 23958 rows and the following 11 columns:  
 
 | Column | Description |
 |--------|------------|
